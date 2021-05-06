@@ -4,6 +4,8 @@
 
 ### Final Report: [A Capacitive-Loaded Weak PUF Insensitive toThermal Noise and Voltage/Temperature Changes](https://github.com/gprechter/EE241B-PUF/raw/main/EE241B_PUF_Project_FINAL-REPORT.pdf)
 
+PUFs are low-cost hardware primitives that exploit process variations for use in security applications like key gen- eration and user authentication. PUF cells can be implemented drawing entropy from meta-stability resolution, delay variation, mismatch in threshold voltages, etc. For key generation applica- tions, stability of a PUFs response is an essential characteristic. To achieve a 100% stable PUF response several techniques have been proposed including temporal-majority voting, dark-bit masking etc., but none of them can achieve a 100% stable PUF response and rely on power and area consuming error-correction mecha- nisms. This work addresses this issue by reinforcing the existing PUF bias through capacitive loading giving a PUF response which is 100% stable towards noise and voltage/temperature fluctu- ations. For demonstrating the effectiveness of our capacitive- loaded PUF (CL-PUF), and other state-of-the-art PUFs, arrays of 128 PUF cells have been simulated in GPDK 45nm technology and evaluated. The core PUF cell consumes 7.53μW/bit from a 1V supply with an estimated area of 0.43μm2/bit.
+
 #### Midterm Report: [An Overview of and Comparison Framework for High-Stability PUF Design Suitable for Key Generation](https://github.com/gprechter/EE241B-PUF/raw/main/EE241B_PUF_Midterm_Report.pdf)
 
 #### Abstract:
