@@ -2,7 +2,7 @@
 ## High-Stability, Low-Power PUF Design with Efficient Error Correction for IoT Applications
 ### Antroy Roy Chowdhury & Griffin Prechter
 
-### Final Report: [A Capacitive-Loaded Weak PUF Insensitive toThermal Noise and Voltage/Temperature Changes]()
+### Final Report: [A Capacitive-Loaded Weak PUF Insensitive toThermal Noise and Voltage/Temperature Changes](https://github.com/gprechter/EE241B-PUF/raw/main/EE241B_PUF_Project_FINAL-REPORT.pdf)
 
 #### Midterm Report: [An Overview of and Comparison Framework for High-Stability PUF Design Suitable for Key Generation](https://github.com/gprechter/EE241B-PUF/raw/main/EE241B_PUF_Midterm_Report.pdf)
 
