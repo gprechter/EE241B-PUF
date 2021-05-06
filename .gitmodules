@@ -1,0 +1,3 @@
+[submodule "EE241B-PUF-Cells"]
+	path = EE241B-PUF-Cells
+	url = https://github.com/gprechter/EE241B-PUF-Cells.git
